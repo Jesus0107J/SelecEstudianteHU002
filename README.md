@@ -41,5 +41,5 @@ comprobable | conforme | Hector |
 
 Wireframe para la historia de usuario HU002.
 
-![Imagen1](D:\CS\semana16\Imagen1.png)
-![Imagen2](D:\CS\semana16\Imagen2.png)
+![image](https://user-images.githubusercontent.com/103460797/177407033-8a777719-7cad-44e0-9b41-8d0c0942d782.png)
+![image](https://user-images.githubusercontent.com/103460797/177407057-4d31c974-cb5f-42da-aae8-95fb3368e8bd.png)
